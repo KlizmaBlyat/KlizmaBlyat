@@ -1,0 +1,31 @@
+/* Move down content because we have a fixed navbar that is 50px tall #EEEEEE*/
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+/*blackarrows.net  welcome to blackarrow*/
+  color: black;
+/*outer wall*/
+  background-color: dodgerblue;
+padding-left:3em;
+
+}
+
+footer {
+
+color: white;
+
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+
+  color: black;
+  background-color: white;
+  border-color: black;
+}
+
+
+.btn
+{
+  background-color: black;
+  border-color: gray;
+}
